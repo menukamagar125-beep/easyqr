@@ -1,4 +1,4 @@
-\# EasyQR - Version 1
+\# EasyQR - Version 2
 
 
 
@@ -21,6 +21,4 @@ Features:
 
 
 This is the detailed Version 1 branch of the project.
-
-
 
